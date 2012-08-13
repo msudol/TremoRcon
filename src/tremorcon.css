@@ -1,0 +1,18 @@
+body {
+font-family: monospace;
+font-size: 12px;
+}
+
+table, tr, td {
+background: #000000;
+color: #00cc00;
+font-family: monospace;
+font-size: 12px;
+}
+
+input, textarea {
+background: #000000;
+color: #00cc00;
+font-family: monospace;
+font-size: 12px;
+}
